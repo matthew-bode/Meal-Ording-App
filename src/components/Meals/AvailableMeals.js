@@ -17,7 +17,7 @@ const DUMMY_MEALS = [
   },
   {
     id: "m3",
-    name: "CheeseBurger",
+    name: "Cheeseburger",
     description: "American, Swiss, or Cheddar",
     price: 12.99,
   },
